@@ -1,1 +1,3 @@
-# pharm
+# maven-project
+
+Simple Maven Project
